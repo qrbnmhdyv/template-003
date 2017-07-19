@@ -1,0 +1,75 @@
+body{
+
+}
+#s001{
+	position: relative;
+	padding:0;
+}
+
+
+#s001 .cover{
+	background: url(../image/cover.jpg) no-repeat center center;
+	height: 780px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+
+}
+#s001 .navbar{
+	background: rgba(0,0,0,.3);
+	box-shadow: 0px 0px 5px white;
+	height: 100px;
+
+}
+#s001 .container-fluid{
+	height: 100px;
+
+}
+#s001 ul{
+	position: relative;
+	top: 20px;
+
+}
+#s001 ul li a b{
+	color: white;
+}
+#s001 ul li a:hover{
+	background: none;
+	
+}
+#s001 ul li a b:hover{
+	border-bottom: 2px solid aqua;
+}
+#s001 .active{
+	border-bottom: 2px solid aqua;
+}
+#s001 .basliq{
+	position: relative;
+	top: 150px;
+
+
+}
+#s001 .basliq h1{
+	font-size: 60px;
+	color: #afbcd6;
+
+}
+#s001 .paragraph{
+	top: 185px;
+	position: relative;
+}
+#s001 .buton{
+	position: relative;
+	top: 250px;
+
+}
+#s001 .btn{
+	width: 230px;
+	background: #6772e5
+
+
+}
+#s001 .btn:hover{
+	background: aqua;
+	transition: all .4s ease;
+}
